@@ -12,13 +12,13 @@ section >p{
     position: relative;
     left:75%;
 }
-p#Hi{
+p#one{
     background-color: red;
 }
-#Hello{
+#two{
     background-color: green;
 }
-p#Bye{
+p#three{
     background-color: greenyellow;
 }
 div{
